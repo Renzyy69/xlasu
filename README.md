@@ -23,7 +23,7 @@ apt install python-pillow
 ```
 4. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli
+git clone https://github.com/Renzyy69/xlasu
 ```
 5. Open the folder
 ```
